@@ -2,7 +2,7 @@ version: 1.2
 workflows:
   - subclass: SMK
     primaryDescriptorPath: /workflow/Snakefile
-    #watch out, upcomment when you want to publish this  publish: True 
+    publish: True 
     name: AMF-rDNA-PacBio-amplicon-sequence-analysis-pipeline
     testParameterFiles:
       - /config/config_prepare_and_cluster_amplicons.yaml
