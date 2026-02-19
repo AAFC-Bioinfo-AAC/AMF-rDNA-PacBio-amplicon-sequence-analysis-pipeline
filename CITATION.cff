@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+title: AMF-rDNA-PacBio-amplicon-sequence-analysis-pipeline
+message: "If you use this software, please cite it using the metadata from this file."
+type: workflow
+authors:
+  - family-names: Stefani
+    given-names: Franck
+    affiliation: "Agriculture and Agri-Food Canada"
+    role: "conceptualization"
+  - family-names: Laterrière
+    given-names: Mario
+    affiliation: "Agriculture and Agri-Food Canada"
+    role: "methodology"
+repository-code: "https://github.com/AAFC-Bioinfo-AAC/AMF-rDNA-PacBio-amplicon-sequence-analysis-pipeline"
+abstract: "A Snakemake pipeline to analyse rDNA amplicon sequences from single or multiple spores of AMF (Arbuscular Mycorrhizal Fungi) generated using PacBio sequencing technology."
+keywords:
+  - amplicon
+  - arbuscular-mycorrhizal-fungi
+  - pacbio
+  - snakemake
+  - bioinformatics
+  - sequencing
+  - pipeline
+license: MIT
+date-released: 2025-06-04
+version: 1.0
+references:
+  - type: journal-article
+    authors:
+      - family-names: Stefani
+        given-names: Franck
+      - family-names: Laterrière
+        given-names: Mario
+      - family-names: Abdellatif
+        given-names: Lobna
+      - family-names: Banchini
+        given-names: Claudia
+      - family-names: Stevens
+        given-names: Greta Mader
+      - family-names: Séguin
+        given-names: Sylvie
+      - family-names: Dadej
+        given-names: Kasia
+      - family-names: Koziol
+        given-names: Lisa
+      - family-names: Findlay
+        given-names: Wendy
+      - family-names: Dalpé
+        given-names: Yolande
+    doi: 10.1111/nph.70557
+    journal: "New Phytologist"
+    year: 2024
