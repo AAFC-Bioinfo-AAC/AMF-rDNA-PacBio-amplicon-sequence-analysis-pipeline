@@ -11,6 +11,9 @@ authors:
     given-names: Mario
     affiliation: "Agriculture and Agri-Food Canada"
     role: "methodology"
+  - family-names: Findlay
+    given-names: Wendy
+    role: "methodology"
 repository-code: "https://github.com/AAFC-Bioinfo-AAC/AMF-rDNA-PacBio-amplicon-sequence-analysis-pipeline"
 abstract: "A Snakemake pipeline to analyse rDNA amplicon sequences from single or multiple spores of AMF (Arbuscular Mycorrhizal Fungi) generated using PacBio sequencing technology."
 keywords:
